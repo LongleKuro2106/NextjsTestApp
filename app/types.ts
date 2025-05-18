@@ -8,4 +8,4 @@ export interface Post {
 export interface DynamicComponent {
   id: number;
   post: Post;
-} 
+}
